@@ -2,476 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5ed480f-eda0-4ce4-b0ee-8e8bd8b71f4d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_alerts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_arrows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_basket.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_bg-angles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_bg-markers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_bg-nonstandarts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_bg-overlays.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_block-hovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_blockquotes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_carousels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_chart-pies.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_charts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_chips.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_compressed-form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_counters.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_credit-cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_dividers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_dropcaps.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_gallery.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_orders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_outer-spaces-helper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_paginations-old.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_paginations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_ribbons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_scroll-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_stickers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_sticky-blocks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_tags.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_text-animations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_text-shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_tooltips.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_video-audio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/_waves.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/accordions/_accordions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/badges/_badges-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/badges/_badges-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/badges/_badges-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/badges/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v10.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v11.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v12.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v13.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v14.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v15.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v16.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v17.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v18.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v19.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v20.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v21.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v22.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v23.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v24.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v25.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v26.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v27.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v28.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v29.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v3-v4-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v30.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v31.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v32.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v33.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v34.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v35.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v36.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v37.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v38.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v39.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v40.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v41.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows-v9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/box-shadows/_box-shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/breadcrumbs/_breadcrumbs-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/breadcrumbs/_breadcrumbs-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/3d/_button-3d.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/default/_button-default-red.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/default/_button-default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/flat/_button-flat.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/floating/_button-floating.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/gradient-ouline/_button-ouline-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/gradient/_button-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v1-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v1-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v1-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v1-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v2-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/hovers/_button-hover-v2-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/inset/_button-inset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/outline/_button-outline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/buttons/skew/_button-skew.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v10.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v11.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v12.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v13.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v14.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v15.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v16.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v17.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v18.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v19.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v20.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v21.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v22.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v23.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v24.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v25.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v26.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v27.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v28.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v29.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v30.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v31.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v32.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v33.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v34.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v35.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators-v9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousel-indicators/_carousel-indicators.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/carousels/_effects.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-dashed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-db-dashed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-db-dotted.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-db-solid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-dotted.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-linear-gradient.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-style-solid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_divider-type-icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dividers/_dividers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dot-line/_dot-line-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dot-line/_dot-line-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/dropdowns/_dropdowns-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/fab/_fab.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/_quantity.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/checkboxes/_checkboxes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/datepickers/_datepickers-v1 copy.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/datepickers/_datepickers-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/datepickers/_datepickers-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/datepickers/_datepickers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/fields/_fields-group-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/fields/_fields-group-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/fields/_fields-group-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/fields/_fields-group-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/fields/_fields.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/file-attachments/_file-attachments-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/file-attachments/_file-attachments-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/file-attachments/_file-attachments-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/file-attachments/_file-attachments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/selects/_selects-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/selects/_selects-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/selects/_selects.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/sliders/_sliders-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/sliders/_sliders-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/sliders/_sliders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_bg-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_bg-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_border-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_border-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_box-shadow-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_colors-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_colors-focus.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_disabled-state-old.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_error-state-old.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_opacity-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_overlays-checked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_states.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_success-state-old.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/_success-state-old2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/disabled/_disabled-state-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/disabled/_disabled-states.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/error/_error-state-v1-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/error/_error-state-v1-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/error/_error-state-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/error/_error-state-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/error/_error-states.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/success/_success-state-v1-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/success/_success-state-v1-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/form-controls/states/success/_success-states.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/go-to/_go-to-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/go-to/_go-to-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/go-to/_go-to-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/go-to/_go-to-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headers/_header-fullscreen.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headers/_header-side.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headers/_header-togglers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headers/_headers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1-7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v10.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2-7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v5-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v5-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v5-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v6-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v6-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v7-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v7-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v8-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v8-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_heading-v9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/headings/_headings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-effect-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-effect-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-effect-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-effect-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-effect-5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-extend.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-scale.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-shape.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-slide-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-slide-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-hover-zoom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v4-additional-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v4-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v4-social-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icon-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icons-block-hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icons-image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icons-sizes-vn.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/icons/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-columns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-inline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-static.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-dropdown-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-overlay.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-push.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-secondary.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-shortcode-sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-smart.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation-v9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/navigation/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/nonstandard-bg/_nonstandard-bg.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/progress-bars/_progress-bars-sizes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/progress-bars/_progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/progress-bars/_tag-progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/rating/_rating-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/searchforms/_searchform-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/searchforms/_searchform-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/searchforms/_searchform-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/searchforms/_searchform-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/searchforms/_searchform-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/steps/_steps-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/steps/_steps-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/steps/_steps-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs-v9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/tabs/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/timelines/_timelines-v1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/timelines/_timelines-v2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/timelines/_timelines-v3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/base/timelines/_timelines.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/_info.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v1/_info-v1-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v1/_info-v1-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v1/_info-v1-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v1/_info-v1-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v1/_info-v1-5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v10/_info-v10-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v11/_info-v11-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v2/_info-v2-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v2/_info-v2-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v2/_info-v2-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v3/_info-v3-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v3/_info-v3-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v3/_info-v3-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v3/_info-v3-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v4/_info-v4-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v4/_info-v4-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v4/_info-v4-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-2.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-3.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-4.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-5.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-6.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v5/_info-v5-7.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v6/_info-v6-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v7/_info-v7-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v8/_info-v8-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/blocks/info-v9/_info-v9-1.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/core/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/custom/_custom.mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/custom/_custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/custom/_custom.variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/demo/_demo.icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_absolute-reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-attachments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-color-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-color-socials.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-colors-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-covers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-grids.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-image-hero.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-patterns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-positions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-repeat.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_bg-sizes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_block-alignments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_block-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_blur.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-color-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-color-socials.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-dashed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-dotted.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-none.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-radiuses.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_border-widths.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_clears.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_color-gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_color-socials.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_cursors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_fill-colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_globals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_heights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_margins-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_margins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_offset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_opacities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_overflows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_paddings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_placeholder.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_position-spaces.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_positions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_quotes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_transforms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-font-families.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-font-sizes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-font-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-font-weights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-letter-spacings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-line-heights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-list-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-text-decorations.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-text-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_typo-text-transforms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_verical-alignments.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_widths.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/globals/_z-index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/ie/_ie.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/js/_js.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/settings/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_button-hovers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_button-sizes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_button-types.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_centered.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_header-toggler-positioning.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_keyframes.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_margin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_navigation-dropdown-inline.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_padding.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_positions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_units.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/tools/mixins/_zigzag.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/unify-components.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/unify-core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/unify-globals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/unify.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/_vendor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/bootstrap/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/chosen/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/cubeportfolio/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/custombox/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/fancybox/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/hamburgers/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/hs-megamenu/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/icon-etlinefont/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/icon-material/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/jquery-ui/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/jquery.filer/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/jvectormap/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/malihu-scrollbar/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/pinmap/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/plyr/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/prism/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/select2/_style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/scss/scss/vendors/slick/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/banner/Software Development.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/banner/Software desing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/banner/Web desing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/styles.op-agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.op-agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/_variables.op-agency.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/_variables.op-agency.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/scss/styles.op-agency.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/styles.op-agency.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -488,15 +30,19 @@
       <file leaf-file-name="styles.op-agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/styles.op-agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680130">
-              <caret line="25190" column="14" selection-start-line="25190" selection-start-column="14" selection-end-line="25190" selection-end-column="14" />
+            <state relative-caret-position="460863">
+              <caret line="17069" column="14" selection-start-line="17069" selection-start-column="14" selection-end-line="17069" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="styles.op-agency.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scss/styles.op-agency.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="_ie.scss" pinned="false" current-in-tab="false">
@@ -506,49 +52,59 @@
       </file>
       <file leaf-file-name="_variables.op-agency.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scss/_variables.op-agency.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="418">
+              <caret line="270" column="47" lean-forward="true" selection-start-line="270" selection-start-column="47" selection-end-line="270" selection-end-column="47" />
               <folding>
+                <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#0;n#div#1;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#2;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#a#0;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="gmaps.core.js" pinned="false" current-in-tab="false">
@@ -556,7 +112,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -584,9 +140,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/styles.op-agency.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/scss/styles.op-agency.scss" />
+        <option value="$PROJECT_DIR$/assets/scss/_variables.op-agency.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -607,10 +165,44 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+              <item name="assests" type="cbb8eebc:String" user="assests" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="img" type="cbb8eebc:String" user="img" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+              <item name="img" type="cbb8eebc:String" user="img" />
+              <item name="banner" type="cbb8eebc:String" user="banner" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -623,34 +215,18 @@
               <item name="CesarAntolinez" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
+              <item name="CesarAntolinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CesarAntolinez" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-              <item name="scss" type="cbb8eebc:String" user="scss" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="CesarAntolinez" type="cbb8eebc:String" user="CesarAntolinez" />
-              <item name="assets" type="cbb8eebc:String" user="assets" />
-              <item name="scss" type="cbb8eebc:String" user="scss" />
-              <item name="scss" type="cbb8eebc:String" user="scss" />
+              <item name="CesarAntolinez" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CesarAntolinez" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="banner" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -666,14 +242,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CesarAntolinez\assets\plugins" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CesarAntolinez\assets\img\banner" />
+      <recent name="C:\xampp\htdocs\CesarAntolinez\assets\img" />
       <recent name="C:\xampp\htdocs\CesarAntolinez\assets\scss" />
       <recent name="C:\xampp\htdocs\CesarAntolinez\assets\plugins" />
       <recent name="C:\xampp\htdocs\CesarAntolinez\assets\js" />
-      <recent name="C:\xampp\htdocs\CesarAntolinez" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\CesarAntolinez\assets\plugins" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -699,7 +276,8 @@
       <option name="presentableId" value="Default" />
       <updated>1560306357880</updated>
       <workItem from="1560306362531" duration="2402000" />
-      <workItem from="1560390940690" duration="1130000" />
+      <workItem from="1560390940690" duration="4202000" />
+      <workItem from="1560473734807" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="cambios de librerias">
       <created>1560308654585</created>
@@ -715,11 +293,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560391872524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="scss">
+      <created>1560392102518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560392102518</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3532000" />
+    <option name="totallyTimeSpent" value="9685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -758,6 +343,84 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/css/styles.op-agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460863">
+          <caret line="17069" column="14" selection-start-line="17069" selection-start-column="14" selection-end-line="17069" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/styles.op-agency.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/scss/ie/_ie.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/_variables.op-agency.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/gmaps/lib/gmaps.core.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="67" column="68" selection-start-line="67" selection-start-column="68" selection-end-line="67" selection-end-column="68" />
+          <folding>
+            <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#article#0;n#div#1;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#2;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.op-agency.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/gmaps/lib/gmaps.core.js">
@@ -775,37 +438,38 @@
         <state relative-caret-position="270">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
+            <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#1;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#2;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -819,66 +483,85 @@
     <entry file="file://$PROJECT_DIR$/assets/plugins/popper.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.op-agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460863">
+          <caret line="17069" column="14" selection-start-line="17069" selection-start-column="14" selection-end-line="17069" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/scss/ie/_ie.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/styles.op-agency.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/logo-light.png" />
+    <entry file="file://$PROJECT_DIR$/assets/img/logo-dark.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/_variables.op-agency.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/banner/Software desing.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="418">
+          <caret line="270" column="47" lean-forward="true" selection-start-line="270" selection-start-column="47" selection-end-line="270" selection-end-column="47" />
           <folding>
+            <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#0;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#0;n#div#1;n#div#1;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#div#1;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#section#6;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#select#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#2;n#footer#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#a#0;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/styles.op-agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680130">
-          <caret line="25190" column="14" selection-start-line="25190" selection-start-column="14" selection-end-line="25190" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/_variables.op-agency.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/styles.op-agency.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/scss/ie/_ie.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
