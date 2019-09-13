@@ -102,15 +102,13 @@ a {
   }
 
   &-opacity {
-    &-0_8 {
-      background-color: rgba($g-color-primary-dark-v1, .8) !important;
-    }
+    @for $i from 1 through 9{
+      &-0_#{$i} {
+        background-color: rgba($g-color-primary-dark-v1, $i / 10) !important;
 
-    &-0_9 {
-      background-color: rgba($g-color-primary-dark-v1, .9) !important;
-
-      &--hover:hover {
-        background-color: rgba($g-color-primary-dark-v1, .9) !important;
+        &--hover:hover {
+          background-color: rgba($g-color-primary-dark-v1, $i / 10) !important;
+        }
       }
     }
   }
@@ -119,12 +117,14 @@ a {
 .g-theme-bg-gray-dark-v1 {
   background-color: $g-theme-color-gray-dark-v1 !important;
 
-  &-opacity {
-    &-0_95 {
-      background-color: rgba($g-theme-color-gray-dark-v1, .95) !important;
+  @for $i from 1 through 9{
+    &-opacity {
+      &-0_#{$i} {
+        background-color: rgba($g-theme-color-gray-dark-v1, $i / 10) !important;
 
-      &--after::after {
-        background-color: rgba($g-theme-color-gray-dark-v1, .95) !important;
+        &--after::after {
+          background-color: rgba($g-theme-color-gray-dark-v1, $i / 10) !important;
+        }
       }
     }
   }
